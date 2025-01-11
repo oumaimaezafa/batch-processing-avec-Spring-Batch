@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TP Spring Batch : Traitement des Commandes
 
 ## Objectif
@@ -56,4 +56,3 @@ Les données transformées (avec remise) sont insérées dans la base de donnée
 <img src="images/image.png">
 =======
 
->>>>>>> 3f2d2673e615bb420e14c8524c5a07a4c46b4500
