@@ -52,4 +52,4 @@ Le job Spring Batch a été configuré avec les composants suivants :
 
 Les données transformées (avec remise) sont insérées dans la base de données et affichées à la fin de l'exécution
 
-<img src="images/image.png">
+![Orders](images/image.png)
