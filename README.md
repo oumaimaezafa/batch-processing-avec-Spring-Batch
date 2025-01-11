@@ -46,10 +46,9 @@ Le job Spring Batch a été configuré avec les composants suivants :
 - **`FlatFileItemReader`** Pour lire les données du fichier CSV.
 - **`OrderItemProcessor`** : Pour appliquer une remise de 10% sur le montant de chaque commande.
 -**`JdbcBatchItemWriter`** : Pour écrire les commandes transformées dans la base de données.
--
--**`JobCompletionListener `**: Pour afficher les commandes insérées à la fin de l'exécution.
+- **`JobCompletionListener`**: Pour afficher les commandes insérées à la fin de l'exécution.
 
-### 3.Affichage de résultat 
+### 3. Affichage de résultat 
 
 Les données transformées (avec remise) sont insérées dans la base de données et affichées à la fin de l'exécution
 
